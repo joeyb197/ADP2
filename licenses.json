@@ -1,13 +1,17 @@
 {
-  "ABC124-XYZ789": {
-    "valid_until": "2025-06-01",
-    "machine_id": "a3c5e7d4b9f1c2d8a0e123456789abcd1234567890ef..."
-  },
-  "DEF456-GHI012": {
-    "valid_until": "2025-08-15"
-  },
-  "GHI789-JKL345": {
-    "valid_until": "2026-01-01",
-    "machine_id": "bf441a8e903ff2994a6e3a3cde0f1eaa0cffee..."
-  }
+    "hptrlz12-kpxzvf21-aelzdt35": {
+        "valid_until": "2025-12-31",
+        "activated": true,
+        "machine_id": "vfkpmjqdvfxzkp646412802135mjqd73mj127321128080xz64tr7346tr9688469635xzxz46mjkp5773mjxz809673648888128057tr6488trvf883521qdvfkp88"
+    },
+    "hptrlz21-kpxzvf35-aelzdt46": {
+        "valid_until": "2025-12-31",
+        "activated": false,
+        "machine_id": ""
+    },
+    "hptrlz35-kpxzvf46-aelzdt57": {
+        "valid_until": "2025-12-31",
+        "activated": false,
+        "machine_id": ""
+    }
 }
