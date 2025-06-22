@@ -5,13 +5,13 @@
         "machine_id": "39463953mjkp28trxs9028mjmjxs5346mj01xskptr0117xsmj53759028mj1790kp46mj39"
     },
     "kp0117xs5390xsnetrktwakpnewaleudbn": {
-        "valid_until": "2025-07-10",
+        "valid_until": "2025-12-10",
         "activated": true,
         "machine_id": "tr6290vf2890kp75xs75539028xs53xzkpxzxs466228xzxs284653kp90tr01752853kpqd"
     },
     "kp0117xs5390xsnetrkt9053wakpnewaleudbn": {
-        "valid_until": "2025-12-31",
-        "activated": false,
+        "valid_until": "2025-12-28",
+        "activated": true,
         "machine_id": ""
     }
 }
